@@ -1,0 +1,3 @@
+dotnet user-secrets init
+dotnet user-secrets set "AzureAd:ClientId" "ae3f809f-f842-4246-a9d6-b2bb1bb23543"
+dotnet user-secrets set "AzureAd:ClientSecret" "tliK9Y8-XfCjqGfJ1nTt4L1S___U34.nYA"
